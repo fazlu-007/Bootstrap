@@ -1,0 +1,32 @@
+.bg{
+    background-color: brown;
+    height: 100px;
+}
+.banner{
+    height: 300px;
+    background-color: chocolate;
+}
+.left{
+height: 200px;
+background-color: darkcyan;
+}
+.right{
+height: 200px;
+background-color: darkorchid;
+}
+.item-1{
+    background-color: deeppink;
+    height: 200px;
+}
+.item-2{
+    height: 200px;
+    background-color: gold;
+}
+.item-3{
+    height: 200px;
+    background-color: hotpink;
+}
+.item-4{
+    height: 200px;
+    background-color: lawngreen;
+}
